@@ -1,0 +1,21 @@
+Fire wizard,1,2
+Electro wizard,1,3
+Water dragon,1,2
+Baby dragon,1,1
+mini wizard,1,1
+Lava Hound,1,3
+Golem,1,2
+Ice wall,2,1
+Wall breaker,2,2
+sheilded troops,2,3
+Rock golem,2,1
+Gaurdian,2,1
+canons ,2,1
+motars,2,3
+Ice ball,3,1
+Fire ball,3,2
+Thunder bolt,3,3
+Arrows,3,2
+poison,3,1
+steal point1,3,1
+steal point2,3,2
